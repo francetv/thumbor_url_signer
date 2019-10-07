@@ -8,7 +8,7 @@ from distutils.core import setup
 
 setup(
     name = "thumbor_url_signer",
-    packages = ["thumbor_url_signer"],
+    packages = ["url_signer"],
     version = "1.2.3",
     description = "Signer for Thumbor - Jeunesse Francetv Release",
     author = "Bertrand Thill",
