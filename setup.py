@@ -25,7 +25,7 @@ setup(
                    'Topic :: Internet :: WWW/HTTP :: Dynamic Content',
                    'Topic :: Multimedia :: Graphics :: Presentation'
     ],
-    package_dir = {"thumbor_url_signer": "thumbor_url_signer"},
+    package_dir = {"url_signer": "url_signer"},
     install_requires=['thumbor>=6.5.0','pymongo>=3.4.0'],
     long_description = """\
 This module provide s
