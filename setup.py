@@ -19,7 +19,7 @@ setup(
     description=("Thumbor thumbor signer adapters - France.tv Release"),
     license="MIT",
     keywords="thumbor mongodb mongo",
-    url="https://github.com/francetv/thumbor_mongodb_storage_webp",
+    url="https://github.com/francetv/thumbor_url_signer",
     packages=[
         'thumbor_url_signer',
         'thumbor_url_signer.url_signer'
