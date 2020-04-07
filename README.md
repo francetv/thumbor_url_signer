@@ -1,4 +1,4 @@
-# thumbor_url_signer
+# thumbor_url_signer Thumbor 7, python 3.6 (async)
 
 # Configuration
 ```

@@ -14,7 +14,7 @@ def read(fname):
 
 setup(
     name="thumbor_url_signer",
-    version="1.0.0",
+    version="7.0.0",
     author="Bertrand THILL",
     description=("Thumbor thumbor signer adapters - France.tv Release"),
     license="MIT",
@@ -28,9 +28,9 @@ setup(
     classifiers=[
         'Development Status ::4 - Beta',
         'License :: OSI Approved :: MIT License',
-        'Programming Language :: Python :: 3.5',
+        'Programming Language :: Python :: 3.6',
     ],
     install_requires=[
-        'thumbor>=6.7.0'
+        'thumbor>=7.0.0'
     ]
 )
